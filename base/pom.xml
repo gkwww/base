@@ -11,6 +11,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.servlet.version>2.1</java.servlet.version>
+		<java.servlet-api.version>2.2</java.servlet-api.version>
 	</properties>
 
 	<repositories>
